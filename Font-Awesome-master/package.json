@@ -1,0 +1,44 @@
+{
+  "name": "font-awesome",
+  "description": "The iconic font and CSS framework",
+  "version": "4.7.0",
+  "style": "css/font-awesome.css",
+  "keywords": ["font", "awesome", "fontawesome", "icon", "bootstrap"],
+  "homepage": "https://fontawesome.io/",
+  "bugs": {
+    "url" : "https://github.com/FortAwesome/Font-Awesome/issues"
+  },
+  "author": {
+    "name": "Dave Gandy",
+    "email": "dave@fontawesome.io",
+    "web": "https://twitter.com/davegandy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FortAwesome/Font-Awesome.git"
+  },
+  "contributors": [
+    {
+      "name": "Brian Talbot",
+      "web": "https://twitter.com/talbs"
+    },
+    {
+      "name": "Travis Chase",
+      "web": "https://twitter.com/supercodepoet"
+    },
+    {
+      "name": "Rob Madole",
+      "web": "https://twitter.com/robmadole"
+    },
+    {
+      "name": "Geremia Taglialatela",
+      "web": "https://twitter.com/gtagliala"
+    }
+  ],
+  "license": "(OFL-1.1 AND MIT)",
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+}
